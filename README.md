@@ -11,7 +11,7 @@ Creact repository get url{https://github.com/kreshan882/AngulerJS_202308_Learn.g
 	upload Git BAST commant font
 	================================
 	git config --global user.email "kreshan882@gmail.com"
-	cd AngulerJS_202308_Learn/
+	cd D:/6_ANGULAR_K/AngulerJS_202308_Learn/
 	git init
 	git add .gitignore angular.json package.json README.md tsconfig.app.json tsconfig.json tsconfig.spec.json src/*
 	git status  ==> check status 
@@ -54,4 +54,4 @@ https://www.tutussfunny.com/spring-boot-with-angular-full-stack-project/?expand_
 
 
 3) BAckend SpringBoot [min 0.00 min 1.18]
-
+		https://github.com/kreshan882/SpringBoot_202308_Learn.git
